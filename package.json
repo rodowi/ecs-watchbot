@@ -1,17 +1,17 @@
 {
-  "name": "watchbot",
+  "name": "watchbot-experimental",
   "version": "0.0.12",
   "description": "Build an AWS stack to do your work for you",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mapbox/ecs-watchbot.git"
+    "url": "git://github.com/rodowi/ecs-watchbot.git"
   },
   "author": "Mapbox",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mapbox/ecs-watchbot/issues"
   },
-  "homepage": "https://github.com/mapbox/ecs-watchbot",
+  "homepage": "https://github.com/rodowi/ecs-watchbot",
   "engines": {
     "node": "4.4.2"
   },
